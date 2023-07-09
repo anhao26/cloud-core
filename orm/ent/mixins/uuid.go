@@ -17,10 +17,10 @@ package mixins
 import (
 	"time"
 
-	uuid2 "cloud-core/utils/uuidx"
 	"entgo.io/ent"
 	"entgo.io/ent/schema/field"
 	"entgo.io/ent/schema/mixin"
+	uuid2 "github.com/anhao26/cloud-core/utils/uuidx"
 )
 
 // UUIDMixin implements the ent.Mixin for sharing

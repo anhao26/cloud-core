@@ -28,8 +28,8 @@ import (
 	"golang.org/x/text/language"
 	"google.golang.org/grpc/status"
 
-	"cloud-core/utils/errcode"
-	"cloud-core/utils/parse"
+	"github.com/anhao26/cloud-core/utils/errcode"
+	"github.com/anhao26/cloud-core/utils/parse"
 )
 
 //go:embed locale/*.json

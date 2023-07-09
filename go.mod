@@ -1,4 +1,4 @@
-module cloud-core
+module github.com/anhao26/cloud-core
 
 go 1.20
 
