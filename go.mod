@@ -1,4 +1,4 @@
-module zero-store-cloud/core
+module cloud-core
 
 go 1.20
 
