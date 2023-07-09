@@ -17,12 +17,10 @@ package mixins
 import (
 	"time"
 
+	uuid2 "cloud-core/utils/uuidx"
 	"entgo.io/ent"
 	"entgo.io/ent/schema/field"
 	"entgo.io/ent/schema/mixin"
-	"github.com/gofrs/uuid/v5"
-
-	uuid2 "zero-store-cloud/core/utils/uuidx"
 )
 
 // UUIDMixin implements the ent.Mixin for sharing
